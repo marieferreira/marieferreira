@@ -1,6 +1,8 @@
 ## Olá! Me chamo Mariele Ferreira 👋
 
-- 🔭 Atualmente trabalho como Técnico de Suporte de Sistemas ERP e Desktop na Atak Sistemas.
-- 🌱Em processo de migração para a área de Desenvolvimento de Software.
-- 📫 Linkedin: Mariele Ferreira
-- ⚡ Curiosidades: Sou graduada em ADS e pós-graduada em Segurança cibernética, além de ser Técnica de Enfermagem.
+💻 Técnica de Suporte ERP & Desktop | Atak Sistemas
+☁️ Migrando para Cloud & DevOps
+🎓 ADS | 🔐 Pós em Segurança Cibernética
+💉 Formação técnica em Enfermagem (sim, carreira dupla!)
+📫 Conecte-se comigo no LinkedIn: Mariele Ferreira
+⚡ Curiosidade: adoro tecnologia, resolver problemas e aprender coisas novas todos os dias.
