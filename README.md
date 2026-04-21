@@ -1,12 +1,10 @@
 ## Olá! Me chamo Mariele Ferreira 👋
 
--💻 Técnica de Suporte ERP & Desktop | Atak Sistemas.
+-💻 Técnica de Suporte ERP
 
 -☁️ Migrando para Cloud & DevOps.
 
 -🎓 ADS | 🔐 Pós em Segurança Cibernética.
-
--💉 Formação técnica em Enfermagem (sim, carreira dupla!).
 
 -📫 Conecte-se comigo no LinkedIn: Mariele Ferreira.
 
