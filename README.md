@@ -1,6 +1,6 @@
 ## Olá! Me chamo Mariele Ferreira 👋
 
--💻 Técnica de Suporte ERP
+-💻 Analista de Suporte
 
 -☁️ Migrando para Cloud & DevOps.
 
@@ -8,4 +8,3 @@
 
 -📫 Conecte-se comigo no LinkedIn: Mariele Ferreira.
 
--⚡ Curiosidade: adoro tecnologia, resolver problemas e aprender coisas novas todos os dias.
