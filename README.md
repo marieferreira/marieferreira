@@ -1,10 +1,8 @@
-## Olá! Me chamo Mariele Ferreira 👋
+## Olá! Me chamo Mariele 👋
 
--💻 Analista de Suporte
+💻 Analista de Suporte
 
--☁️ Migrando para Cloud & DevOps.
+🎓 ADS 
 
--🎓 ADS | 🔐 Pós em Segurança Cibernética.
-
--📫 Conecte-se comigo no LinkedIn: Mariele Ferreira.
+📫 Conecte-se comigo no LinkedIn: Mariele Ferreira.
 
